@@ -4,8 +4,14 @@ An opportunity to talk about Microservice Testing
 
 Topics:
 
-- Test naming
-- Given / When / Then
+- Definition of Done
+- Types of tests
+- Unit Tests
+- Integration Tests
+- Slice Testings
+- Mocking
+- Test naming convention
+- Test structure: Given / When / Then
 - Profiles
 - Docker
 - Test coverage
@@ -25,3 +31,5 @@ Topics:
 - https://dzone.com/articles/7-popular-unit-test-naming
 - https://martinfowler.com/bliki/GivenWhenThen.html
 - https://www.archunit.org/
+- https://medium.com/@tasdikrahman/f-i-r-s-t-principles-of-testing-1a497acda8d6
+- The Right Bicep
