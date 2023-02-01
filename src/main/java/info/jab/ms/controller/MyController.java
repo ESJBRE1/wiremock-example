@@ -13,8 +13,8 @@ public class MyController {
     @Autowired
     private MyService myService;
 
-    @GetMapping("/employees")
-    List<String> all() {
+    @GetMapping("/gods/greek")
+    List<String> getGreekGods() {
         return myService.getData();
     }
 
