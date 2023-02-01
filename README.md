@@ -8,6 +8,7 @@ Topics:
 - Types of tests
 - Unit Tests
 - Integration Tests
+- Mutation Testing
 - Slice Testings
 - Mocking
 - Test naming convention
@@ -33,3 +34,4 @@ Topics:
 - https://www.archunit.org/
 - https://medium.com/@tasdikrahman/f-i-r-s-t-principles-of-testing-1a497acda8d6
 - The Right Bicep
+- https://github.com/jabrena/pyramid-of-testing
