@@ -5,21 +5,33 @@ An opportunity to talk about Microservice Testing
 Topics:
 
 - Definition of Done
+
+**Functional Testing:**
+
 - Types of tests
 - Unit Tests
 - Integration Tests
-- Mutation Testing
 - Slice Testings
 - Mocking
 - Test naming convention
 - Test structure: Given / When / Then
 - Profiles
-- Docker
 - Test coverage
-- Plugins
-- Scaffolding
+- Mutation Testing
+- Performance Testing
+
+**Non functional testing:**
+
 - Thread safety
 - Memory Leaks
+- Scaffolding
+
+## How to run in local
+
+```bash
+mvn clean spring-boot:run
+curl http://localhost:8080/gods/greek  
+```
 
 ![](docs/ms.png)
 
